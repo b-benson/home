@@ -1,0 +1,76 @@
+body 
+{
+      background-color:lightblue;
+}
+.pic
+{
+      margin-left: 400px;
+      text-align: center;
+      -webkit-column-width: 400px; /* Chrome, Safari, Opera */
+      -moz-column-width: 400px; /* Firefox */  
+      column-width: 300px;
+      color: black;
+      font-size: 20px;s
+      
+}
+#goo
+{
+      border-radius: 30px;
+      float: left;
+}
+h1
+{
+      color:brown;
+      text-align: center;
+}
+#dot
+{
+      border: 10px dotted black;
+      padding: 15px;
+      background:lightgreen;
+      background-clip: border-box;  
+}
+h3
+{
+      text-align: center;
+}
+p
+{
+      background-color: lightgreen;
+      font-style: itatic;
+}
+h4
+{
+      font-size: 20px;
+}
+p1
+{ 
+      font-size: 25px;
+}
+h5
+{
+      font-size: 10px;
+      text-align: center;
+}
+#tu
+{
+      border-radius: 38px;
+      float: right;
+}
+#fo
+{
+      text-align: center;
+}
+.crush
+{
+      background-color: black;
+      text-align:left ;
+      font-size: 20px;
+      font-style: italic;
+      color: red;
+}
+#name
+{
+      text-align: right;
+      font-size: 30px;
+}
