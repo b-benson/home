@@ -1,0 +1,34 @@
+body
+{
+     background-image: url("images/F1-1958.jpeg");
+     background-attachment: fixed;
+}
+p
+{
+     color: white;
+     text-align: center;
+}
+
+.center
+{
+     text-align: center;
+     font-size: 300px;
+     font-color:blue;
+}
+.crush
+{
+     font-size: 300px;
+}
+.down
+{
+     text-align: center;
+     font-size:200px;
+}
+#id
+{
+     padding-left: 400;
+}
+#name
+{
+     text-align: right;
+}
